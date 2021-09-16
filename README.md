@@ -1,2 +1,3 @@
 # goit-js-hw-07
-JS HomeWork #7
+
+домашнее задание #7 (DOM + events)
